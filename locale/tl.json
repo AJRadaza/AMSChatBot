@@ -1,0 +1,8 @@
+{
+	"useCookies" : "Gagamitin ang naipong cookies sa pag login.",
+	"useNormal" : "Gagamitin ang email at password sa pag login.",
+	"spoiltCookies" : "Naku po! Ang naipong cookies ay pan-os na.",
+	"greetings" : "Magandang bati! I-type ang \"/help\" para makita ang listahan ng mga commands.",
+	"languageSet" : "Ang lingwahe ay iniba sa tagalog.",
+	"commands" : "Commands:\n/init - I-initialize lahat ng configurations at settings.\n/setlang - I-set ang lingwahe."
+}

@@ -1,0 +1,24 @@
+{
+	"useCookies" : "Gagamitin ang naipong cookies sa pag login.",
+	"useNormal" : "Gagamitin ang email at password sa pag login.",
+	"spoiltCookies" : "Naku po! Ang naipong cookies ay pan-os na.",
+	"greetings" : "Maayung adlaw! I-type ang \"/help\" para makita ang listahan sa mga commands.",
+	"languageSet" : "Ang pinulongan kay gi-set sa Bisaya.",
+	"commands" : "Commands:\n/init - I-initialize tanang configurations ug settings.\n/setlang - I-set ang pinulongan.",
+
+	"languageSelect" : "Mag iningles ko or mag binisaya?",
+	"langSelected" : "Ang pinulongan kay na-set sa Bisaya.",
+	"greetingsUser" : "Maayong adlaw! Ako ang imong personal attendance assistant, Snatt! :D",
+	"fromNowOn" : "Sugod karon, tabangan tika sa pag kuha sa attendance sa klase nga way gamitay bolpen! xD",
+	"justMakeSure" : "Siguradoa lang nga mochat ka nako hehe",
+	"beforeIHelp" : "Usa taka tabangan,Naa sa koy pipila ka pangutana",
+	"inWhatGrade" : "Unsa naka graduha karon?",
+	"whatSection" : "Unsa seksyona?",
+	"classAdviser" : "Unsay full name sa imong class adviser?",
+	"subjectMWF" : "Oki,Unsay Subject ninyo sa adlaw na MWF (Monday, Wednesday, Friday)? Bahiga ang kada subject ug comma",
+	"subjectTTH" : "Sa TTH (Tuesday and Thursday)?",
+	"studentNames" : "Maayo!, Karon mangutana ako sa mga pangalan sa taga estudyante sa inyong classroom",
+	"studentReg" : "Sa pag register, Isuwat ang ngalan sa taga estudyante sa ingon ani nga format: \n\"LAST NAME, FIRST NAME, MIDDLE NAME\"\nBuhata ni sa ngalan sa kada estudyante sa inyong klase.",
+	"ifDoneReg" : "Kung nahuman naka sa pagsuwat sa mga ngalan, i-type \"Done\" ug ang Initialization kay mahuman",
+	"thankYouReg" : "Salamat sa pagkompleto sa initial initialization. Sugod karon, Mangutana ako sa attendance sa inyong klase taga adlaw. Siguradoa ang paghatag sa mga data na akong pangayuon. Hinaot Maayo ang imong Adlaw! :D"
+}
