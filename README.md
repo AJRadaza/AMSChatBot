@@ -1,4 +1,4 @@
-#AMS Bot
+AMS Chat Bot
 
 An Automated Facebook Chat Bot for Classroom Attendance Monitoring
 
